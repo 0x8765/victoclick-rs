@@ -1,0 +1,12 @@
+[package]
+name = "victoclick"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+device_query = "2.1.0"
+rdev = "0.5.3"
+text_io = "0.1.12"
+
+[targets.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
