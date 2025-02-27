@@ -8,7 +8,7 @@ Pour compiler vous-même, il vous faut Rust. Compilez en mode Release de préfé
 cargo build --release  
 ```
 ## Téléchargement des exécutables :
-Si vous ne souhaitez pas compiler le programme vous-même, vous pouvez télécharger les exécutables précompilés ici : [victoclick-rs]().
+Si vous ne souhaitez pas compiler le programme vous-même, vous pouvez télécharger les exécutables précompilés ici : [victoclick-rs](https://github.com/0x8765/victoclick-rs/releases/tag/v1.0).
 
 ## Utilisation :
 Le mode 1 permet de cliquer automatiquement : appuyez une fois sur le bouton F de votre clavier, et le programme commencera à cliquer tout seul. Rappuyez une fois pour arrêter.
