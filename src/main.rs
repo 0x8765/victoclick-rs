@@ -37,6 +37,7 @@ fn main() {
     println!("very fast auto clicker");
     println!("(1) - Toggle mod, on/off");
     println!("(2) - Hold mod, press for click (untested on Windows)");
+    println!("the activation key is J.");
 
     let clickmod;
     loop {
